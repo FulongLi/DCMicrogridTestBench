@@ -1,7 +1,7 @@
 # Low-Voltage DC Microgrid Test Bench
 
 ![license - CC BY 4.0](https://img.shields.io/badge/license-CC--BY-green)
-![language - Hardware](https://img.shields.io/badge/language-Hardware-blue)
+![type - hardware](https://img.shields.io/badge/type-hardware-blue)
 ![category - power electronics](https://img.shields.io/badge/category-power%20electronics-lightgrey)
 ![status - archived](https://img.shields.io/badge/status-archived-red)
 
