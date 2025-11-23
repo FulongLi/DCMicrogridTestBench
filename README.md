@@ -165,6 +165,10 @@ The upgraded V2 experimental DC microgrid bench is shown below.
 
 ---
 
+## Related Papers 
+
+---
+
 ## License
 
 This project is licensed under the **Creative Commons — CC BY 4.0**, see [LICENSE.md](LICENSE.md).
